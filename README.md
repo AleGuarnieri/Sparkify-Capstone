@@ -15,6 +15,7 @@ The begining of the project is dedicated to Exploratory Data Analysis to familia
 with the data, then the target column where it is defined if a user churned or not is created. After the feature engineering section
 is dedicated to implementation or processing of the features, both categorical and numerical.
 Finally a classifier is trained and tuned in order to predict churn.
+Article can be found at the folloing link: https://medium.com/analytics-vidhya/when-music-is-your-passion-9837aea155ea
 
 ## Acknowledgements
 Udacity for providing data for this project
